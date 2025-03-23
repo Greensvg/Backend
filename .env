@@ -1,0 +1,7 @@
+MONGO_URI=mongodb+srv://your_mongo_url
+JWT_SECRET=your_jwt_secret
+MPESA_CONSUMER_KEY=your_mpesa_key
+MPESA_CONSUMER_SECRET=your_mpesa_secret
+MPESA_SHORTCODE=your_shortcode
+MPESA_PASSKEY=your_passkey
+
